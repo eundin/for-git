@@ -7,4 +7,6 @@ def subtract(a, b):
 
 def multiply(a,b):
   return a*b
-#변경한다.
+
+def divide(a, b):
+    return a/b
